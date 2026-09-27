@@ -40,20 +40,3 @@ Space-Sporcle/
 ├── spacesporcle.c
 ├── spacesporcle.h
 └── README.md
-
-## What I Learned
-
-Through this project, I gained experience with:
-- Breaking a larger program into modular functions
-- Working with arrays and strings in C
-- Using conditional logic and loops
-- Generating randomized questions using rand() and srand()
-- Validating and processing user input
-- Managing scores and game states
-- Testing different user inputs and game outcomes
-
-## Author
-
-Hridhay Suswaram
-
-Computer Engineering student at the University of Missouri–Columbia
