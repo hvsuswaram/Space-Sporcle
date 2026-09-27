@@ -1,6 +1,6 @@
 # 🚀 Space Sporcle
 
-A command-line space-themed quiz game written in C and developed for TigerHacks.
+A command-line space-themed quiz game written in C and developed for TigerHacks 2025 (University of Missouri-Columbia.)
 
 ## About
 
